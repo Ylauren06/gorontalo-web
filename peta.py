@@ -65,4 +65,4 @@ border-radius: 5px;
 m.get_root().html.add_child(folium.Element(legend_html))
 
 # Simpan peta
-m.save("peta_gorontalo.html")
+m.save("index.html")
